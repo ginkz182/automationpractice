@@ -1,5 +1,8 @@
 # Assessment
 
+All materials and video recording can also be found in this Google share drive
+https://drive.google.com/drive/folders/1beYFjR-mLHWLwcipH1DP-izFB5LxAKlS?usp=sharing
+
 ## 1. Test Coverage Matrix
 Excel sheet is attached with the email and can also be found in Google Drive here
 [Question 1: Test Coverage Matrix](https://docs.google.com/spreadsheets/d/1FdgK5sHOMM8FyQd8Haif8bSClS8BRstG/edit?usp=sharing&ouid=106778797930776263912&rtpof=true&sd=true)
