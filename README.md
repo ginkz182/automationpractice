@@ -45,7 +45,7 @@ gauge install java -v 0.7.13
 gauge install html-report
 ```
 
-4. Run execute command
+3. Run execute command
 ```
 mvn gauge:execute -DspecsDir="specs/Frontend"
 ```
