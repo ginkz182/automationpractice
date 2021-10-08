@@ -63,6 +63,9 @@ Steps to setup the test will be same as task #2 but with following command to ex
 mvn gauge:execute -DspecsDir="specs/API"
 ```
 
+Test specification is in [/specs/API](https://github.com/ginkz182/automationpractice/tree/master/specs/API)
+
+
 This test spec consists of 4 test cases
 1. GET request
 2. POST request
